@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Phương Thảo 👋
 
-<!--
-**thaorbit/thaorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
+🤖 Interested in **Machine Learning · Computer Vision **
+🔬 Currently building strong foundations in **ML/DL and AI research**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Software Engineering student interested in understanding **how intelligent systems work from first principles** and turning that understanding into working systems.
+
+My current focus is:
+
+* 🧠 **Machine Learning & Deep Learning**
+* 👁️ **Computer Vision**
+* 🏗️ **Software Engineering & System Design**
+
+I learn by building — starting with a small working system, identifying what I don't understand, then going back to the underlying theory.
+
+---
+
+## Currently
+
+🔭 Building stronger foundations in **Machine Learning and Computer Vision**
+
+🧪 Working toward participating in **AI/ML research projects**
+
+💻 Improving my **Computer Science and Software Engineering foundations**
+
+---
+
+## GitHub
+
+I use this profile to document my learning process, experiments, and projects.
+
+> **Learn → Build → Experiment → Understand → Repeat**
+
+---
+
+### 📫 Contact
+* Email: enfance2005@gmail.com
