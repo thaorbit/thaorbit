@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Software Engineering student interested in understanding **how intelligent systems work from first principles** and turning that understanding into working systems.
+I'm a Software Engineering student interested in how machines perceive, represent, and understand the visual world, with a focus on Computer Vision and intelligent systems.
 
 My current focus is:
 
